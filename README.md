@@ -4,7 +4,7 @@
 
 📫 Reach me at anguyen192@student.gsu.edu
 
-✨ Catch my random tweets at @anng217
+✨ Catch my random tweets at [@anng217](https://twitter.com/anngn217)
 
 <!---
 anng217/anng217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
