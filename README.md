@@ -1,4 +1,4 @@
-👋 Hi, I’m @anng217. PhD in CIS - Computer Information Systems at Georgia State Univeristy. Welcome to my messy nest of thoughts, concocations of homework and (not even) half-done projects.
+👋 Hi, I’m @anng217. PhD in Management Information Systems at Georgia State Univeristy. Welcome to my messy nest of thoughts, concocations of homework and (not even) half-done projects.
 
 💞️ I’m looking to collaborate on research on digital economics, labor markets, and entrepreneurship.
 
